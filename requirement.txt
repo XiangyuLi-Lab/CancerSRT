@@ -1,0 +1,7 @@
+scanpy
+numpy
+matplotlib
+cell2location
+torch
+pandas
+anndata

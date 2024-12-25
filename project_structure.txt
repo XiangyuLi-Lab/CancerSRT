@@ -1,0 +1,16 @@
+ CancerSRT_code/
+    R_analyze/
+       analyze.R
+       cellchatv2.R
+       spark.R
+   cell2location/
+        __pycache__/
+             cell2location.ipynb
+             results/
+                cell2location_map/
+                lymph_nodes_analysis/
+   related_data/
+        ensemble.csv
+        immune.csv
+        signatures.csv
+
